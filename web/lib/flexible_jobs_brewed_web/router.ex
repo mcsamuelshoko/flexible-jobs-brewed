@@ -18,6 +18,11 @@ defmodule FlexibleJobsBrewedWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :home
+    get "/about", PageController, :about
+    get "/contact", PageController, :contact
+    get "/privacy", PageController, :privacy
+    get "/terms", PageController, :terms
+    get "/jobs", PageController, :jobs
   end
 
   # Other scopes may use custom stacks.
