@@ -7,11 +7,20 @@
     <.live_title default="FlexibleJobsBrewed" suffix=" · Phoenix Framework">
       {assigns[:page_title]}
     </.live_title>
+
+    <link phx-track-static rel="icon" href={~p"/favicon.svg"}/>
+    <%!-- <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16"/> --%>
+    <link rel="icon" href="/favicon.svg" sizes="any" type="image/svg+xml">
+
+    <link phx-track-static rel="stylesheet" href={~p"/bootstrap/bootstrap@5.3.5.min.css"} />
     <link phx-track-static rel="stylesheet" href={~p"/assets/app.css"} />
+
+
+    <script defer phx-track-static type="text/javascript" src={~p"/bootstrap/bootstrap@5.3.5.bundle.min.js"}>
     <script defer phx-track-static type="text/javascript" src={~p"/assets/app.js"}>
     </script>
   </head>
-  <body class="bg-white">
+  <body class="bg-backgroundLight text-textLight dark:bg-backgroundDark dark:text-textDark">
     {@inner_content}
   </body>
 </html>
