@@ -58,7 +58,7 @@ config :flexible_jobs_brewed, FlexibleJobsBrewedWeb.Endpoint,
     patterns: [
       ~r"priv/static/(?!uploads/).*(js|css|png|jpeg|jpg|gif|svg)$",
       ~r"priv/gettext/.*(po)$",
-      ~r"lib/flexible_jobs_brewed_web/(controllers|live|components)/.*(ex|heex)$"
+      ~r"lib/flexible_jobs_brewed_web/(controllers|views|live|components)/.*(ex|heex)$"
     ]
   ]
 
