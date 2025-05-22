@@ -16,7 +16,7 @@ module.exports = {
       colors: {
         fjPrimary: "#4ecdc4",
         fjSecondary: "#16504b",
-        fjAccent: "#afe9e4",
+        fjAccent: "#afe9ef",
         bgLight: "#f2f2f2",
         bgDark: "#2f2932",
         textDark: "#f7f7f7",
