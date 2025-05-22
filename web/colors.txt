@@ -1,36 +1,36 @@
 - Coolors Link
-    https://coolors.co/4ecdc4-16504b-afe9e4-f2f2f2-f7f7f7-1a1a1a-2f2932
-
+      # https://coolors.co/4ecdc4-16504b-afe9e4-f2f2f2-f7f7f7-1a1a1a-2f2932
+    [NEW ONE] https://coolors.co/4ecdc4-16504b-afe9ef-f2f2f2-f7f7f7-1a1a1a-2f2932
 - Tailwind
 
-{ 'robin_egg_blue': { DEFAULT: '#4ecdc4', 100: '#0c2c2a', 200: '#195853', 300: '#25837d', 400: '#31afa7', 500: '#4ecdc4', 600: '#70d7d0', 700: '#94e1dc', 800: '#b7ebe7', 900: '#dbf5f3' }, 'brunswick_green': { DEFAULT: '#16504b', 100: '#04100f', 200: '#09201e', 300: '#0d302d', 400: '#12403c', 500: '#16504b', 600: '#279087', 700: '#3fcabf', 800: '#7fdcd4', 900: '#bfedea' }, 'celeste': { DEFAULT: '#afe9e4', 100: '#12403c', 200: '#238078', 300: '#35c0b5', 400: '#6fd8cf', 500: '#afe9e4', 600: '#bfedea', 700: '#cff2ef', 800: '#dff6f4', 900: '#effbfa' }, 'white_smoke': { DEFAULT: '#f2f2f2', 100: '#303030', 200: '#616161', 300: '#919191', 400: '#c2c2c2', 500: '#f2f2f2', 600: '#f5f5f5', 700: '#f7f7f7', 800: '#fafafa', 900: '#fcfcfc' }, 'seasalt': { DEFAULT: '#f7f7f7', 100: '#313131', 200: '#636363', 300: '#949494', 400: '#c6c6c6', 500: '#f7f7f7', 600: '#f9f9f9', 700: '#fafafa', 800: '#fcfcfc', 900: '#fdfdfd' }, 'eerie_black': { DEFAULT: '#1a1a1a', 100: '#050505', 200: '#0a0a0a', 300: '#0f0f0f', 400: '#141414', 500: '#1a1a1a', 600: '#474747', 700: '#757575', 800: '#a3a3a3', 900: '#d1d1d1' }, 'raisin_black': { DEFAULT: '#2f2932', 100: '#09080a', 200: '#131114', 300: '#1c191e', 400: '#262128', 500: '#2f2932', 600: '#5b4f60', 700: '#86758e', 800: '#aea3b4', 900: '#d7d1d9' } }
+{ 'robin_egg_blue': { DEFAULT: '#4ecdc4', 100: '#0c2c2a', 200: '#195853', 300: '#25837d', 400: '#31afa7', 500: '#4ecdc4', 600: '#70d7d0', 700: '#94e1dc', 800: '#b7ebe7', 900: '#dbf5f3' }, 'brunswick_green': { DEFAULT: '#16504b', 100: '#04100f', 200: '#09201e', 300: '#0d302d', 400: '#12403c', 500: '#16504b', 600: '#279087', 700: '#3fcabf', 800: '#7fdcd4', 900: '#bfedea' }, 'non_photo_blue': { DEFAULT: '#afe9ef', 100: '#0e3f45', 200: '#1b7f8a', 300: '#29becf', 400: '#69d5e1', 500: '#afe9ef', 600: '#beedf2', 700: '#cef2f5', 800: '#dff6f9', 900: '#effbfc' }, 'white_smoke': { DEFAULT: '#f2f2f2', 100: '#303030', 200: '#616161', 300: '#919191', 400: '#c2c2c2', 500: '#f2f2f2', 600: '#f5f5f5', 700: '#f7f7f7', 800: '#fafafa', 900: '#fcfcfc' }, 'seasalt': { DEFAULT: '#f7f7f7', 100: '#313131', 200: '#636363', 300: '#949494', 400: '#c6c6c6', 500: '#f7f7f7', 600: '#f9f9f9', 700: '#fafafa', 800: '#fcfcfc', 900: '#fdfdfd' }, 'eerie_black': { DEFAULT: '#1a1a1a', 100: '#050505', 200: '#0a0a0a', 300: '#0f0f0f', 400: '#141414', 500: '#1a1a1a', 600: '#474747', 700: '#757575', 800: '#a3a3a3', 900: '#d1d1d1' }, 'raisin_black': { DEFAULT: '#2f2932', 100: '#09080a', 200: '#131114', 300: '#1c191e', 400: '#262128', 500: '#2f2932', 600: '#5b4f60', 700: '#86758e', 800: '#aea3b4', 900: '#d7d1d9' } }
 
 - CSV
 
-4ecdc4,16504b,afe9e4,f2f2f2,f7f7f7,1a1a1a,2f2932
+4ecdc4,16504b,afe9ef,f2f2f2,f7f7f7,1a1a1a,2f2932
 
 - With #
 
-#4ecdc4, #16504b, #afe9e4, #f2f2f2, #f7f7f7, #1a1a1a, #2f2932
+#4ecdc4, #16504b, #afe9ef, #f2f2f2, #f7f7f7, #1a1a1a, #2f2932
 
 - Array
 
-["4ecdc4","16504b","afe9e4","f2f2f2","f7f7f7","1a1a1a","2f2932"]
+["4ecdc4","16504b","afe9ef","f2f2f2","f7f7f7","1a1a1a","2f2932"]
 
 - Object
 
-{"Robin egg blue":"4ecdc4","Brunswick green":"16504b","Celeste":"afe9e4","White smoke":"f2f2f2","Seasalt":"f7f7f7","Eerie black":"1a1a1a","Raisin black":"2f2932"}
+{"Robin egg blue":"4ecdc4","Brunswick green":"16504b","Non Photo blue":"afe9ef","White smoke":"f2f2f2","Seasalt":"f7f7f7","Eerie black":"1a1a1a","Raisin black":"2f2932"}
 
 - Extended Array
 
-[{"name":"Robin egg blue","hex":"4ecdc4","rgb":[78,205,196],"cmyk":[62,0,4,20],"hsb":[176,62,80],"hsl":[176,56,55],"lab":[76,-37,-6]},{"name":"Brunswick green","hex":"16504b","rgb":[22,80,75],"cmyk":[72,0,6,69],"hsb":[175,73,31],"hsl":[175,57,20],"lab":[30,-20,-2]},{"name":"Celeste","hex":"afe9e4","rgb":[175,233,228],"cmyk":[25,0,2,9],"hsb":[175,25,91],"hsl":[175,57,80],"lab":[88,-19,-4]},{"name":"White smoke","hex":"f2f2f2","rgb":[242,242,242],"cmyk":[0,0,0,5],"hsb":[0,0,95],"hsl":[0,0,95],"lab":[95,0,0]},{"name":"Seasalt","hex":"f7f7f7","rgb":[247,247,247],"cmyk":[0,0,0,3],"hsb":[0,0,97],"hsl":[0,0,97],"lab":[97,0,0]},{"name":"Eerie black","hex":"1a1a1a","rgb":[26,26,26],"cmyk":[0,0,0,90],"hsb":[0,0,10],"hsl":[0,0,10],"lab":[9,0,0]},{"name":"Raisin black","hex":"2f2932","rgb":[47,41,50],"cmyk":[6,18,0,80],"hsb":[280,18,20],"hsl":[280,10,18],"lab":[18,5,-5]}]
+[{"name":"Robin egg blue","hex":"4ecdc4","rgb":[78,205,196],"cmyk":[62,0,4,20],"hsb":[176,62,80],"hsl":[176,56,55],"lab":[76,-37,-6]},{"name":"Brunswick green","hex":"16504b","rgb":[22,80,75],"cmyk":[72,0,6,69],"hsb":[175,73,31],"hsl":[175,57,20],"lab":[30,-20,-2]},{"name":"Non Photo blue","hex":"afe9ef","rgb":[175,233,239],"cmyk":[27,3,0,6],"hsb":[186,27,94],"hsl":[186,67,81],"lab":[89,-17,-9]},{"name":"White smoke","hex":"f2f2f2","rgb":[242,242,242],"cmyk":[0,0,0,5],"hsb":[0,0,95],"hsl":[0,0,95],"lab":[95,0,0]},{"name":"Seasalt","hex":"f7f7f7","rgb":[247,247,247],"cmyk":[0,0,0,3],"hsb":[0,0,97],"hsl":[0,0,97],"lab":[97,0,0]},{"name":"Eerie black","hex":"1a1a1a","rgb":[26,26,26],"cmyk":[0,0,0,90],"hsb":[0,0,10],"hsl":[0,0,10],"lab":[9,0,0]},{"name":"Raisin black","hex":"2f2932","rgb":[47,41,50],"cmyk":[6,18,0,80],"hsb":[280,18,20],"hsl":[280,10,18],"lab":[18,5,-5]}]
 
 - XML
 
 <palette>
   <color name="Robin egg blue" hex="4ecdc4" r="78" g="205" b="196" />
   <color name="Brunswick green" hex="16504b" r="22" g="80" b="75" />
-  <color name="Celeste" hex="afe9e4" r="175" g="233" b="228" />
+  <color name="Non Photo blue" hex="afe9ef" r="175" g="233" b="239" />
   <color name="White smoke" hex="f2f2f2" r="242" g="242" b="242" />
   <color name="Seasalt" hex="f7f7f7" r="247" g="247" b="247" />
   <color name="Eerie black" hex="1a1a1a" r="26" g="26" b="26" />
