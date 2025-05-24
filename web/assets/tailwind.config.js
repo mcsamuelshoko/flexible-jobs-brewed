@@ -13,15 +13,30 @@ module.exports = {
   ],
   theme: {
     extend: {
+      // colors: {
+      //   fjPrimary: "#4ecdc4",
+      //   fjSecondary: "#16504b",
+      //   fjAccent: "#afe9ef",
+      //   bgLight: "#f2f2f2",
+      //   bgDark: "#2f2932",
+      //   textDark: "#f7f7f7",
+      //   textLight: "#1a1a1a",
+      // },
       colors: {
-        fjPrimary: "#4ecdc4",
-        fjSecondary: "#16504b",
-        fjAccent: "#afe9ef",
-        bgLight: "#f2f2f2",
-        bgDark: "#2f2932",
-        textDark: "#f7f7f7",
-        textLight: "#1a1a1a",
-      }
+        'fjPrimary':
+          { DEFAULT: '#4ecdc4', 50: '#f1fcfa', 100: '#d0f7f1', 200: '#a0efe4', 300: '#69dfd3', 400: '#4ecdc4', 500: '#20aca4', 600: '#178a86', 700: '#176e6c', 800: '#175858', 900: '#174a49', 950: '#072b2c' },
+        'fjSecondary':
+          { DEFAULT: '#16504b', 100: '#04100f', 200: '#09201e', 300: '#0d302d', 400: '#12403c', 500: '#16504b', 600: '#279087', 700: '#3fcabf', 800: '#7fdcd4', 900: '#bfedea' },
+        'fjAccent':
+          { DEFAULT: '#afe9ef', 100: '#0e3f45', 200: '#1b7f8a', 300: '#29becf', 400: '#69d5e1', 500: '#afe9ef', 600: '#beedf2', 700: '#cef2f5', 800: '#dff6f9', 900: '#effbfc' },
+        'bgLight':
+          { DEFAULT: '#f2f2f2', 100: '#303030', 200: '#616161', 300: '#919191', 400: '#c2c2c2', 500: '#f2f2f2', 600: '#f5f5f5', 700: '#f7f7f7', 800: '#fafafa', 900: '#fcfcfc' },
+        'textDark':
+          { DEFAULT: '#f7f7f7', 100: '#313131', 200: '#636363', 300: '#949494', 400: '#c6c6c6', 500: '#f7f7f7', 600: '#f9f9f9', 700: '#fafafa', 800: '#fcfcfc', 900: '#fdfdfd' },
+        'textLight':
+          { DEFAULT: '#1a1a1a', 100: '#050505', 200: '#0a0a0a', 300: '#0f0f0f', 400: '#141414', 500: '#1a1a1a', 600: '#474747', 700: '#757575', 800: '#a3a3a3', 900: '#d1d1d1' },
+        'bgDark':
+          { DEFAULT: '#2f2932', 100: '#09080a', 200: '#131114', 300: '#1c191e', 400: '#262128', 500: '#2f2932', 600: '#5b4f60', 700: '#86758e', 800: '#aea3b4', 900: '#d7d1d9' } }
     },
   },
   plugins: [
