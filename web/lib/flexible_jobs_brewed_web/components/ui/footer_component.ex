@@ -1,4 +1,4 @@
-defmodule FlexibleJobsBrewedWeb.UI.Components.Footer do
+defmodule FlexibleJobsBrewedWeb.Components.Ui.Footer do
 @moduledoc """
 UI components reused
 
