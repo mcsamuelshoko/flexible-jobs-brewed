@@ -1,4 +1,4 @@
-defmodule FlexibleJobsBrewedWeb.UI.Components.Header do
+defmodule FlexibleJobsBrewedWeb.Components.Ui.Header do
   @moduledoc """
   UI components reused
 
