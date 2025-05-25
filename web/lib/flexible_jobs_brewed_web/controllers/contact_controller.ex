@@ -7,7 +7,7 @@ defmodule FlexibleJobsBrewedWeb.ContactController do
     render(conn, :index, layout: false)
   end
 
-  def show(conn, %{"messenger" => messenger} = _params) do
-    render(conn, :show, messenger: messenger)
-  end
+  # def show(conn, %{"messenger" => messenger} = _params) do
+  #   render(conn, :show, messenger: messenger)
+  # end
 end
