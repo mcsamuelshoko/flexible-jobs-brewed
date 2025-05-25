@@ -23,12 +23,13 @@ defmodule FlexibleJobsBrewedWeb.Components.Ui.Header do
 
 
               <ul class="pt-4 flex items-center space-x-8 lg:flex">
-                <li class="font-semibold hover:text-fjSecondary hover:underline transition-all duration-150 ease-in-out dark:hover:text-fjPrimary "><a href="#">Salaries</a></li>
-                <li class="font-semibold hover:text-fjSecondary hover:underline transition-all duration-150 ease-in-out dark:hover:text-fjPrimary"><a href="#">Reviews</a></li>
-                <li class="font-semibold hover:text-fjSecondary hover:underline transition-all duration-150 ease-in-out dark:hover:text-fjPrimary"><a href="#">About</a></li>
+              <li class="font-semibold hover:text-fjSecondary hover:underline transition-all duration-150 ease-in-out dark:hover:text-fjPrimary "><a href="/jobs/companies">Companies</a></li>
+                <li class="font-semibold hover:text-fjSecondary hover:underline transition-all duration-150 ease-in-out dark:hover:text-fjPrimary "><a href="/jobs/salaries">Salaries</a></li>
+                <li class="font-semibold hover:text-fjSecondary hover:underline transition-all duration-150 ease-in-out dark:hover:text-fjPrimary"><a href="/jobs/reviews">Reviews</a></li>
+                <li class="font-semibold hover:text-fjSecondary hover:underline transition-all duration-150 ease-in-out dark:hover:text-fjPrimary"><a href="/about">About</a></li>
                 <li>
                   <a
-                    href="/"
+                    href="/register"
                     class=" inline-flex items-center justify-center  btn font-semibold tracking-wide  dark:text-textLight bg-bgDark text-textDark dark:bg-bgLight ease-in-out transition duration-200 rounded shadow-md bg-fjAccent-400 hover:bg-fjPrimary hover:text-textLight focus:shadow-outline focus:outline-none"
                     aria-label="Sign up"
                     title="Sign up"
@@ -36,7 +37,7 @@ defmodule FlexibleJobsBrewedWeb.Components.Ui.Header do
                     Sign&nbsp;up
                   </a>
                 </li>
-                <li class="font-semibold hover:text-fjSecondary hover:underline transition-all duration-150 ease-in-out dark:hover:text-fjPrimary"><a href="#">Contact</a></li>
+                <li class="font-semibold hover:text-fjSecondary hover:underline transition-all duration-150 ease-in-out dark:hover:text-fjPrimary"><a href="/contact">Contact</a></li>
               </ul>
               <!-- Mobile menu
               <div class="lg:hidden">
